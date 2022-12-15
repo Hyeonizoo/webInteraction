@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@font-face {
+  font-family: 'KyoboHand';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/KyoboHand.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,
+input,legend,li,ol,p,select,table,td,textarea,th,ul, header, nav, section
+{ margin:0; padding:0; font-family: 'Noto Sans KR', sans-serif; box-sizing: border-box; }
+body,button,input,select,table,textarea { font-family: 'Noto Sans KR', sans-serif; font-weight: 500; }
+
+body, p{font-family: 'Noto Sans KR';}
+
+button,input { border-radius:0; border: none; background-color: transparent; cursor: pointer;}
+fieldset,img { border:0 }
+ol,ul { list-style:none }
+address,em { font-style:normal }
+a { text-decoration:none }
+iframe { overflow:hidden; margin:0; padding:0; border:0 }
